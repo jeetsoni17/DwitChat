@@ -23,10 +23,10 @@ Decentralized storage to prevent data loss or unauthorized removal
 Screenshots
 
 ### User login
-![User login](screenshots/ss1.png)
+![User login](Screenshots/ss1.png)
 
 ### Home Feed
-![Home Feed](screenshots/ss2.png)
+![Home Feed](Screenshots/ss2.png)
 
 ### Tester Tweets
 ![Tester Tweets](screenshots/ss3.png)
