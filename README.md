@@ -54,9 +54,9 @@ DwitChat represents a shift toward a secure, transparent, and user-controlled so
 By combining decentralized identity, blockchain-based content management, and community-driven incentives, 
 the platform promotes a more open and democratic approach to digital social interaction.
 
-Author
+Authors
 
-Jeet Soni
-Harsh Ravjiani
-Brijesh Ghonia
+Jeet Soni,
+Harsh Ravjiani,
+Brijesh Ghonia,
 Yashi Jain
