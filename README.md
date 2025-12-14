@@ -22,7 +22,31 @@ Decentralized storage to prevent data loss or unauthorized removal
 
 Screenshots
 
-Screenshots of the application interface can be added below.
+### User login
+![User login](screenshots/ss1.png)
+
+### Home Feed
+![Home Feed](screenshots/ss2.png)
+
+### Tester Tweets
+![Tester Tweets](screenshots/ss3.png)
+
+### Hateful Tweets Example
+![Hateful Tweets Example](screenshots/ss4.png)
+
+### Analysing tweet photo using an AI tool
+
+![Analysing tweet photo using an AI tool](screenshots/ss5.png)
+
+### Detecting hateful tweet and displaying a prompt message
+![Detecting hateful tweet and displaying a prompt message](screenshots/ss6.png)
+
+###  Account details of the user after posting the tweet
+![ Account details of the user after posting the tweet](screenshots/ss7.png)
+
+
+### Coin Prices and transactions
+![Coin Prices and transactions](screenshots/ss9.png)
 
 
 
